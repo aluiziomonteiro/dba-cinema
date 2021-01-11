@@ -1,17 +1,13 @@
-#  Modelagem de Cinema
+#  Data Base Cinema
 
 ___
-___
 
-###### *Levantamento de Requisitos para Empresa Cinema*
+###### *Projeto de Banco de Dados para um Cinema*
 ___
 
 ### Objetivos
 
-* Levantamento de requisitos
-* Descrição da empresa
-* Criação dos diagramas
-* Criação do screma SQL
+Definição de um Projeto de Banco de Dados voltado para um Cinema.
  
 ### Requisitos
 
@@ -23,8 +19,14 @@ ___
 ### Conteúdo
 
 * [Projeto](https://github.com/aluiziomonteiro/dba-cinema/blob/master/docs/projeto.docx)
-* [Diagramas](https://github.com/aluiziomonteiro/angular-avc/blob/master/img/001.png)
-* [Script](https://github.com/aluiziomonteiro/angular-avc/blob/master/img/001.png)
+* [Diagramas](https://github.com/aluiziomonteiro/dba-cinema/blob/master/diagrama-brmodelo/diagrama.jpg)
+* [Script](https://github.com/aluiziomonteiro/dba-cinema/blob/master/schemas/empresacinema2.sql)
+
+### Gerando a Base de Dados
+
+A Base de Dados pode ser gerada executando [script](https://github.com/aluiziomonteiro/dba-cinema/blob/master/schemas/empresacinema2.sql) a partir do CMD/Windows, Terminal/Linux/MacOS ou via Workbench.
+
+
 
 ### Autor
 
